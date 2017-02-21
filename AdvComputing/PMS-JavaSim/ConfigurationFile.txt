@@ -1,0 +1,4 @@
+Data-> Sample Duration: 20.0 % Duration is introduced in number of iterations/time steps
+Data-> Cutoff radius: 2.5 % Distance at which the Leonnard-Jonnes potential vanishes
+Data-> Neighbour Skin: 2.0 % Size of the Neighbouring ring to be add to the cut off radius
+Data-> Sample Cells: 2.0 % Number of cells to be sample along each axis for XCrysDen 'movie'

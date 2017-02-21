@@ -1,0 +1,11 @@
+Data-> Sample Start: 0.5 % Percentage of the total simulation where the sample starts
+Data-> Simulation Identificator: PMSrun % Simulation name/identifier
+Data-> Epsilon: 119.8 % Value of the epsilon parameter
+Data-> Sigma: 0.341E-9 % Value of the sigma parameter
+Data-> Density: 0.83684894378368910508054582719758 % Density of the material
+Data-> Mass: 1.0 % Mass of each particle in the material
+Data-> Atomic number: 1 % Atomic number of the particles in the material
+Data-> Temperature:  0.72871452420701168614357262103506 % Temperature of the material (in Kelvin)
+Data-> Number of unit cells: 4 % Number of unit cells to simulate along each axis
+Data-> Time Step: 1.0E-15 % Time elapsed in each iteration
+Data-> Total Time: 1.0E-13 % Total time that will be simulated
